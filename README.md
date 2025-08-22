@@ -1,5 +1,5 @@
 # Telco-Churn-Prediction-using-Logistic-regression-model
-In this project I used a Logistic Regression modle to predict customer churn in a telecommunications company called Telco
+In this project I used a Logistic Regression model to predict customer churn in a telecommunications company called Telco
 
 **The main objective of this project was to:**
 
